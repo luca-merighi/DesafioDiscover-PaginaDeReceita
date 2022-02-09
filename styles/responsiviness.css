@@ -1,0 +1,36 @@
+
+/* 768px - Tablet */
+@media(min-width: 768px) {
+    
+    figure img {
+        height: 18rem;
+    }
+}
+
+/* 1024px - Laptop */
+@media(min-width: 1024px) {
+    body {
+        width: 70%;
+        margin: 40px auto;
+        padding: 30px;
+    }
+
+    main {
+        border-radius: 8px;
+    }
+
+    h1, h3, h4 {
+        text-align: center;
+    }
+
+    .footer {
+        margin-top: 5rem;
+    }
+}
+
+/* 1366px - Notebook */
+@media(min-width: 1366px) {
+    figure img {
+        height: 20rem;
+    }
+}
