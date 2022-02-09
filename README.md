@@ -8,6 +8,5 @@ A página possuí semântica, responsividade para outros dispositivos, e animaç
 <img src="https://github.com/luca-merighi/luca-merighi/blob/main/GHIcons/css.png?raw=true">
 </div>
 <br/>
-<br/>
 
 ### [Link para a Página](https://luca-merighi.github.io/DesafioDiscover-PaginaDeReceita/ "Página de Receita")
